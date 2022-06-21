@@ -1,0 +1,6 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Accounting-App\Accounting-App\bin\Debug\Accounting-App.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Accounting-App\Accounting-App\bin\Debug\Accounting-App.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Accounting-App\Accounting-App\bin\Debug\Accounting-App.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Accounting-App\Accounting-App\obj\Debug\Accounting-App.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Accounting-App\Accounting-App\obj\Debug\Accounting-App.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Accounting-App\Accounting-App\obj\Debug\Accounting-App.pdb
