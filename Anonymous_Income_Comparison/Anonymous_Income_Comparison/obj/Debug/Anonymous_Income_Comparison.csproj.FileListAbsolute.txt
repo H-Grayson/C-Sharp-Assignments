@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Anonymous_Income_Comparison\Anonymous_Income_Comparison\bin\Debug\Anonymous_Income_Comparison.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Anonymous_Income_Comparison\Anonymous_Income_Comparison\obj\Debug\Anonymous_Income_Comparison.pdb
