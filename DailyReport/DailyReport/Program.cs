@@ -11,7 +11,7 @@ namespace DailyReport
         static void Main(string[] args)
         {
             Console.WriteLine("The Tech Academy\n");
-            
+
             Console.WriteLine("Student Daily Report");
             Console.ReadLine();
 

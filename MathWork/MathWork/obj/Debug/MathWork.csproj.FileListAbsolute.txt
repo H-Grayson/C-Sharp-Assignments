@@ -1,0 +1,6 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MathWork\MathWork\bin\Debug\MathWork.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MathWork\MathWork\bin\Debug\MathWork.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MathWork\MathWork\bin\Debug\MathWork.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MathWork\MathWork\obj\Debug\MathWork.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MathWork\MathWork\obj\Debug\MathWork.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MathWork\MathWork\obj\Debug\MathWork.pdb
