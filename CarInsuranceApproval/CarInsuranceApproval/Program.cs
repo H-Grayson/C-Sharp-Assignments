@@ -21,7 +21,7 @@ namespace CarInsuranceApproval
 
             bool ageQual = age > 15;
             bool duiQual = dui == false;
-            bool spdTcktQual = spdTckt < 3;
+            bool spdTcktQual = spdTckt <= 3;
 
             bool insQual = ageQual == duiQual == spdTcktQual == true;
 
