@@ -40,6 +40,7 @@ namespace DailyReport
             int stdyhrs = Convert.ToInt32(studyhrs);
 
             Console.WriteLine("\nThank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+            Console.ReadLine();
         }
     }
 }
