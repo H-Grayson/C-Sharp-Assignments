@@ -1,0 +1,6 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
