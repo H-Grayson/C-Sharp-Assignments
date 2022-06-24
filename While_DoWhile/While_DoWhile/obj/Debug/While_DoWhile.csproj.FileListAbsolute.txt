@@ -1,0 +1,6 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\While_DoWhile\While_DoWhile\bin\Debug\While_DoWhile.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\While_DoWhile\While_DoWhile\bin\Debug\While_DoWhile.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\While_DoWhile\While_DoWhile\bin\Debug\While_DoWhile.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\While_DoWhile\While_DoWhile\obj\Debug\While_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\While_DoWhile\While_DoWhile\obj\Debug\While_DoWhile.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\While_DoWhile\While_DoWhile\obj\Debug\While_DoWhile.pdb
