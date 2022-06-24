@@ -40,7 +40,7 @@ namespace ShippingQuote
                 return;
             }
             // multiplying Width, Height, Length to determine pkg cost
-            int pkgQuote = (pkgHeight * pkgWidth * pkgLength);
+            int pkgQuote = (((pkgHeight * pkgWidth * pkgLength) * pkgWeight) / 100);
 
             Console.WriteLine("Your estimated total for shipping this package is: " + pkgQuote + "$");
             Console.WriteLine("Thank you!");
