@@ -128,7 +128,7 @@ class Program
         // creates list of clients
         List<string> myClients = new List<string> { "Sarah", "Daniel", "Doug", "Sarah", "Tom" };
 
-
+        //created variable, groups matching items under the variable duplicates
         var duplicates = myClients.GroupBy(x => x)
             .SelectMany(g => g.Skip(1));
 
@@ -136,7 +136,7 @@ class Program
         {
             Console.WriteLine("\n" + Client);
             
-            if (duplicates.Contains(Client))
+            if (duplicates.Contains(Client)) // if duplicates var matches a client in myclients  this is stated after.
             {
                 Console.WriteLine("The user " + Client + " appears in the list more than once.\n");
             }
