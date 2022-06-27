@@ -1,0 +1,6 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\CallMethodsAssignment\CallMethodsAssignment\obj\Debug\CallMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\CallMethodsAssignment\CallMethodsAssignment\bin\Debug\CallMethodsAssignment.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\CallMethodsAssignment\CallMethodsAssignment\bin\Debug\CallMethodsAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\CallMethodsAssignment\CallMethodsAssignment\bin\Debug\CallMethodsAssignment.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\CallMethodsAssignment\CallMethodsAssignment\obj\Debug\CallMethodsAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\CallMethodsAssignment\CallMethodsAssignment\obj\Debug\CallMethodsAssignment.pdb
