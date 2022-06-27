@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\Loops\Loops\obj\Debug\Loops.pdb

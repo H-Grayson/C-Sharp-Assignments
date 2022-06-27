@@ -10,13 +10,41 @@ namespace Branching
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your favorite number?");
-            int favNum = Convert.ToInt32(Console.ReadLine());
-
-            string result = favNum == 12 ? "You have an awesome favorite number." : "You do not have an awesome favorite number.";
-
-            Console.WriteLine(result);
+            int day = 2;
+            switch (day)
+            {
+                case 1:
+                    Console.WriteLine("Monday");
+                    break;
+                case 2:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 3:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 4:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 5:
+                    Console.WriteLine("Friday");
+                    break;
+                case 6:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 7:
+                    Console.WriteLine("Sunday");
+                    break;
+            }
             Console.ReadLine();
+        }    
+
+            //Console.WriteLine("What is your favorite number?");
+            //int favNum = Convert.ToInt32(Console.ReadLine());
+
+            //string result = favNum == 12 ? "You have an awesome favorite number." : "You do not have an awesome favorite number.";
+
+            //Console.WriteLine(result);
+            //Console.ReadLine();
 
             //int roomTemperature = 70;
 
@@ -69,7 +97,7 @@ namespace Branching
             //{
             //    Console.WriteLine("It is not exactly room temperature.");
             //}
-            Console.ReadLine();
-        }
+            //Console.ReadLine();
+
     }
 }

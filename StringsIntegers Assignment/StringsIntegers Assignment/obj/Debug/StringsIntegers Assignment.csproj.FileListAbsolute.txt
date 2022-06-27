@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\StringsIntegers Assignment\StringsIntegers Assignment\bin\Debug\StringsIntegers Assignment.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\StringsIntegers Assignment\StringsIntegers Assignment\bin\Debug\StringsIntegers Assignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\StringsIntegers Assignment\StringsIntegers Assignment\bin\Debug\StringsIntegers Assignment.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\StringsIntegers Assignment\StringsIntegers Assignment\obj\Debug\StringsIntegers Assignment.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\StringsIntegers Assignment\StringsIntegers Assignment\obj\Debug\StringsIntegers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\StringsIntegers Assignment\StringsIntegers Assignment\obj\Debug\StringsIntegers Assignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\StringsIntegers Assignment\StringsIntegers Assignment\obj\Debug\StringsIntegers Assignment.pdb
