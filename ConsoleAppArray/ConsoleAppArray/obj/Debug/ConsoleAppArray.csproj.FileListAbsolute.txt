@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
