@@ -18,12 +18,6 @@ class Program
 
         }
 
-        // another way to do the previous action
-        //foreach (string color in favColor)
-        //{
-        //    Console.WriteLine(color + " " + userText);
-        //}
-
         Console.ReadLine();
 
         // Part 2
@@ -131,11 +125,11 @@ class Program
 
         // Part 6
 
-
+        // creates list of clients
         List<string> myClients = new List<string> { "Sarah", "Daniel", "Doug", "Sarah", "Tom" };
 
 
-        IEnumerable<string> duplicates = myClients.GroupBy(x => x)
+        var duplicates = myClients.GroupBy(x => x)
             .SelectMany(g => g.Skip(1));
 
         foreach (string Client in myClients)
