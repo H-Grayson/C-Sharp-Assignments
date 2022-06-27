@@ -1,0 +1,6 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
