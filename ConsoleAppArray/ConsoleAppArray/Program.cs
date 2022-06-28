@@ -8,14 +8,17 @@ class Program
     static void Main(string[] args)
     {
         // Part 1
-        string[] favColor = { "Red ", "Orange ", "Yellow ", "Green ", "Blue ", };
+        string[] favColor = { "Red object", "Orange object", "Yellow object", "Green object", "Blue object", };
         Console.WriteLine("Please name an object");
         string userText = Console.ReadLine();
 
         for (int i = 0; i < favColor.Length; i++)
         {
-            Console.WriteLine(favColor[i] + userText);
-
+            favColor[i] = favColor[i].Replace("object", userText);
+        }
+        foreach (string colorString in favColor)
+        {
+            Console.WriteLine(colorString);
         }
 
         Console.ReadLine();
@@ -42,56 +45,28 @@ class Program
         List<string> usStates = new List<string> { "Texas", "Ohio", "Florida", "Georgia", "California" };
         Console.WriteLine("Find out where each state falls in terms of highschool football recruiting ranking. Please choose from \nTexas \nOhio \nFlorida \nGeorgia \nCalifornia\n");
 
-        bool stateExists = false;
+        bool goodState = false;
 
         do
         {
-            string userGuess = Console.ReadLine();
-
-            int i;
-            for (i = 0; i < usStates.Count; i++)
+            string stateRank = Console.ReadLine();
+            int z;
+            for (z = 0; z < usStates.Count; z++)
             {
-                if (usStates[i] == userGuess)
+                if (usStates[z] == stateRank)
                 {
-                    stateExists = true;
-                    break;
+                    goodState = true;
+                    Console.WriteLine("The state you've selected is " + z + " in the index.\n");
                 }
             }
-            switch (i)
+            if (z > 4)
             {
-
-                case 0:
-                    Console.WriteLine("You have chosen {0}", userGuess);
-                    stateExists = true;
-                    break;
-
-                case 1:
-                    Console.WriteLine("You have chosen {0}", userGuess);
-                    stateExists = true;
-                    break;
-
-                case 2:
-                    Console.WriteLine("You have chosen {0}", userGuess);
-                    stateExists = true;
-                    break;
-
-                case 3:
-                    Console.WriteLine("You have chosen {0}", userGuess);
-                    stateExists = true;
-                    break;
-
-                case 4:
-                    Console.WriteLine("You have chosen {0}", userGuess);
-                    stateExists = true;
-                    break;
-
-                default:
-                    Console.WriteLine("This was an incorrect entry, please try again.");
-                    Console.WriteLine("Find out where each state falls in terms of highschool football recruiting ranking.");
-                    break;
+                Console.WriteLine("Please choose a state listed below.");
+                Console.WriteLine("\nTexas \nOhio \nFlorida \nGeorgia \nCalifornia\n");
             }
+
         }
-        while (!stateExists);
+        while (!goodState);
 
 
 
