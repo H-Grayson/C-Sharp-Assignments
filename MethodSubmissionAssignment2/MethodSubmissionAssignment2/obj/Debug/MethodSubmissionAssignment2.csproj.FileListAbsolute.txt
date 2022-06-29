@@ -1,0 +1,6 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodSubmissionAssignment2\MethodSubmissionAssignment2\bin\Debug\MethodSubmissionAssignment2.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodSubmissionAssignment2\MethodSubmissionAssignment2\bin\Debug\MethodSubmissionAssignment2.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodSubmissionAssignment2\MethodSubmissionAssignment2\bin\Debug\MethodSubmissionAssignment2.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodSubmissionAssignment2\MethodSubmissionAssignment2\obj\Debug\MethodSubmissionAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodSubmissionAssignment2\MethodSubmissionAssignment2\obj\Debug\MethodSubmissionAssignment2.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodSubmissionAssignment2\MethodSubmissionAssignment2\obj\Debug\MethodSubmissionAssignment2.pdb
