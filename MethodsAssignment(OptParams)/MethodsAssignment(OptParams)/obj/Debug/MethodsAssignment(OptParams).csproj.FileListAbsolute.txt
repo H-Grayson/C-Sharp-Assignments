@@ -1,0 +1,7 @@
+C:\Users\hunte\source\repos\MethodsAssignment(OptParams)\MethodsAssignment(OptParams)\obj\Debug\MethodsAssignment(OptParams).csproj.AssemblyReference.cache
+C:\Users\hunte\source\repos\MethodsAssignment(OptParams)\MethodsAssignment(OptParams)\obj\Debug\MethodsAssignment(OptParams).csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\MethodsAssignment(OptParams)\MethodsAssignment(OptParams)\bin\Debug\MethodsAssignment(OptParams).exe.config
+C:\Users\hunte\source\repos\MethodsAssignment(OptParams)\MethodsAssignment(OptParams)\bin\Debug\MethodsAssignment(OptParams).exe
+C:\Users\hunte\source\repos\MethodsAssignment(OptParams)\MethodsAssignment(OptParams)\bin\Debug\MethodsAssignment(OptParams).pdb
+C:\Users\hunte\source\repos\MethodsAssignment(OptParams)\MethodsAssignment(OptParams)\obj\Debug\MethodsAssignment(OptParams).exe
+C:\Users\hunte\source\repos\MethodsAssignment(OptParams)\MethodsAssignment(OptParams)\obj\Debug\MethodsAssignment(OptParams).pdb
