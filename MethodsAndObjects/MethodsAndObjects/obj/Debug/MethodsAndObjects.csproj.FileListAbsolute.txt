@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
