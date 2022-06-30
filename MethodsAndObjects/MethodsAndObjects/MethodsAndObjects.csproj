@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5817C703-94CC-440F-BB78-8BEA72C6AFFE}</ProjectGuid>
+    <ProjectGuid>{0E78C336-2BBD-4C99-9AFC-397623C456FC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>VoidMethodAssignment2</RootNamespace>
-    <AssemblyName>VoidMethodAssignment2</AssemblyName>
+    <RootNamespace>MethodsAndObjects</RootNamespace>
+    <AssemblyName>MethodsAndObjects</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Method.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="staticMethod.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
