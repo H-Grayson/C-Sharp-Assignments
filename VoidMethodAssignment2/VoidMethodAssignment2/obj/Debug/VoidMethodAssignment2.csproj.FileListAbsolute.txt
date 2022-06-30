@@ -1,7 +1,0 @@
-C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\VoidMethodAssignment2\VoidMethodAssignment2\bin\Debug\VoidMethodAssignment2.exe.config
-C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\VoidMethodAssignment2\VoidMethodAssignment2\bin\Debug\VoidMethodAssignment2.exe
-C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\VoidMethodAssignment2\VoidMethodAssignment2\bin\Debug\VoidMethodAssignment2.pdb
-C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\VoidMethodAssignment2\VoidMethodAssignment2\obj\Debug\VoidMethodAssignment2.csproj.AssemblyReference.cache
-C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\VoidMethodAssignment2\VoidMethodAssignment2\obj\Debug\VoidMethodAssignment2.csproj.CoreCompileInputs.cache
-C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\VoidMethodAssignment2\VoidMethodAssignment2\obj\Debug\VoidMethodAssignment2.exe
-C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\VoidMethodAssignment2\VoidMethodAssignment2\obj\Debug\VoidMethodAssignment2.pdb
