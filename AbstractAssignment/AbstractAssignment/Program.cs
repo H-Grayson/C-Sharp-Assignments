@@ -15,6 +15,10 @@ namespace AbstractAssignment
             emp.lastName = "Student";
 
             emp.SayName(); // Call the SayName() method on the object.
+
+            IQuittable quit = new Employee(); //POLYMORPHISM ASSIGNMENT Use polymorphism to create an object of type IQuittable
+            quit.Quit(); //POLYMORPHISM ASSIGNMENT  and call the Quit() method on it.
+
             Console.ReadLine();
         }
     }
