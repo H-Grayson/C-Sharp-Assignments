@@ -1,0 +1,2 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\TwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache

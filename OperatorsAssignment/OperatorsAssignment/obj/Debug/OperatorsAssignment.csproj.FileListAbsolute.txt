@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb
