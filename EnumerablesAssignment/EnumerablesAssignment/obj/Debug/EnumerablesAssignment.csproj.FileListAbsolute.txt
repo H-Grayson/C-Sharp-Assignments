@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\EnumerablesAssignment\EnumerablesAssignment\bin\Debug\EnumerablesAssignment.exe.config
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\EnumerablesAssignment\EnumerablesAssignment\bin\Debug\EnumerablesAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\EnumerablesAssignment\EnumerablesAssignment\bin\Debug\EnumerablesAssignment.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\EnumerablesAssignment\EnumerablesAssignment\obj\Debug\EnumerablesAssignment.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\EnumerablesAssignment\EnumerablesAssignment\obj\Debug\EnumerablesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\EnumerablesAssignment\EnumerablesAssignment\obj\Debug\EnumerablesAssignment.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\EnumerablesAssignment\EnumerablesAssignment\obj\Debug\EnumerablesAssignment.pdb
