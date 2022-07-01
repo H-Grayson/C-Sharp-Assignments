@@ -17,7 +17,7 @@ namespace DateTimeAssignment
 
                         int userNum = Convert.ToInt32(Console.ReadLine());
             DateTime hoursAddedDate = currentDate.AddHours(userNum);
-            Console.WriteLine("\nTodays date is {0}. \n\nWith the number you've added, we've added the that amount of time in hours the time would be: \n\n{1}!", currentDate, hoursAddedDate); // Prints to the console the exact time it will be in X hours, X being the number the user entered in step 2.
+            Console.WriteLine("\nTodays date is {0}. \n\nWith the number you've added, we've added the that amount of time in hours to the time,\nafter adding the hours the time would be: \n\n{1}!", currentDate, hoursAddedDate); // Prints to the console the exact time it will be in X hours, X being the number the user entered in step 2.
             Console.Read();
         }
     }
