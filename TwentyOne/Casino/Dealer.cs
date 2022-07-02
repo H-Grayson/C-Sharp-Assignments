@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Casino
 {
-    public class Dealer // is a inherits / has a is a class property
+    public class Dealer
     {
         public string Name { get; set; }
         public Deck Deck { get; set; }
@@ -17,6 +17,7 @@ namespace Casino
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"C:\"))
             Deck.Cards.RemoveAt(0);
         }
     }
