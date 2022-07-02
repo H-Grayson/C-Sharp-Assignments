@@ -19,7 +19,7 @@ namespace OperatorsAssignment
             emp2.id = 2;
 
             Console.WriteLine("Are both employee id's the same?\n\n");
-            if (emp1 == emp2)
+            if (emp1.id == emp2.id)
             {
                 Console.WriteLine(emp1.firstName + "and " + emp2.firstName + "have matching employee id numbers!");
             }
