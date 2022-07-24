@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace FinalChallenge
 {
-    public class Student
+    public class Student: Microsoft.EntityFrameworkCore.DbContext
     {
         public int StudentID { get; set; }
-        public string StudentName { get; set; }
+        public string? StudentName { get; set; }
         public DateTime? DateOfBirth { get; set; }
-        public Grade Grade { get; set; }
+        public byte[] Photos { get; set; }
+        public decimal Height { get; set; }
+        public float Weight { get; set; }
+
+        public Grade? Grade { get; set; }
+
     }
 }

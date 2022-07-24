@@ -1,6 +1,8 @@
 ﻿using System;
-using System.Data.Entity;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 
 namespace FinalChallenge
@@ -10,15 +12,14 @@ namespace FinalChallenge
         static void Main(string[] args)
         {
 
-            using (var db = new SchoolContext())
-            { 
+            using (var ctx = new SchoolContext())
+            {
                 var stud = new Student() { StudentName = "Hunter" };
-
-                db.Students.Add(stud);
-                db.SaveChanges();
+                ctx.Students.Add(stud);
+                ctx.SaveChanges();
+                Console.Write("Saved Successfully");
+                Console.ReadLine();
             }
-
-            Console.ReadLine();
         }
     }
 }

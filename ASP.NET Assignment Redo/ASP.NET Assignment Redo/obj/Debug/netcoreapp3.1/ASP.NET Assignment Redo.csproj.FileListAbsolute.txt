@@ -1,0 +1,93 @@
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.StaticWebAssets.xml
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.exe
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.deps.json
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.runtimeconfig.json
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.runtimeconfig.dev.json
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.Views.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\ASP.NET Assignment Redo.Views.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.AssemblyInfoInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.AssemblyInfo.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.RazorAssemblyInfo.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.RazorAssemblyInfo.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Assignment Redo.StaticWebAssets.Manifest.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Assignment Redo.StaticWebAssets.xml
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Assignment Redo.styles.css
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.TagHelpers.input.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.TagHelpers.output.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.RazorCoreGenerate.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.RazorTargetAssemblyInfo.cache
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.RazorTargetAssemblyInfo.cs
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.Views.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.csproj.CopyComplete
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.dll
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.pdb
+C:\Users\hunte\OneDrive\Documents\GitHub\Projects\TTA-Basic-C-Sharp-Project\ASP.NET Assignment Redo\ASP.NET Assignment Redo\obj\Debug\netcoreapp3.1\ASP.NET Assignment Redo.genruntimeconfig.cache
